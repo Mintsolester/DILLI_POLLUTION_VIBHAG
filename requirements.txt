@@ -1,0 +1,15 @@
+streamlit
+pandas
+xgboost
+scikit-learn
+requests
+pyarrow
+matplotlib
+joblib
+numpy
+altair
+openmeteo_requests
+requests-cache
+retry_requests
+plotly
+python-dotenv

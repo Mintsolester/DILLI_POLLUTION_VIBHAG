@@ -1,0 +1,19 @@
+id,parameter,name
+399,pm10,pm10 µg/m³
+35,pm25,pm25 µg/m³
+394,o3,o3 µg/m³
+36,no2,no2 µg/m³
+392,co,co µg/m³
+393,so2,so2 µg/m³
+12234783,no,no ppb
+12234785,o3,o3 µg/m³
+12234787,pm25,pm25 µg/m³
+12234784,no2,no2 ppb
+12234786,pm10,pm10 µg/m³
+12234782,co,co ppb
+12234790,temperature,temperature c
+12234788,relativehumidity,relativehumidity %
+12234789,so2,so2 ppb
+14340715,wind_speed,wind_speed m/s
+14340714,wind_direction,wind_direction deg
+14340713,nox,nox ppb
